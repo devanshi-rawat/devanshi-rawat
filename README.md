@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Advance java
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me : 📧 devanshirawat129@gmail.com 
+- 📫 How to reach me : https://www.linkedin.com/in/devanshi-rawat-dev/
 
 <!---
 devanshi-rawat/devanshi-rawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
