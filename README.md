@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devanshi-rawat
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Advance java
-- 💞️ I’m looking to collaborate on web development projects
+- 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me : https://www.linkedin.com/in/devanshi-rawat-dev/
 
 <!---
